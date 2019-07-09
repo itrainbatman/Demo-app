@@ -1,6 +1,0 @@
-This file is created for demo purpose
-public void class{
-  Sytem.out.println("Welcome to Devops")
-
-
-}

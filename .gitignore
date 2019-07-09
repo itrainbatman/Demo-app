@@ -1,3 +1,6 @@
+*.txt
+*.md
+/target
+/reports
 *.log
-temp*
-test*
+
